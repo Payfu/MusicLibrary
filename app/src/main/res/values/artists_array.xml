@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Daft Punk -->
+    <string-array name="artist_0">
+        <item>Daft Punk</item>
+        <item>Random Access Memories</item>
+        <item>daftpunk_ram</item>
+    </string-array>
+
+    <array name="artist_album_0">
+        <item>Give Life Back to Music</item>
+        <item>The Game of Love</item>
+        <item>Giorgio by Moroder</item>
+        <item>Within</item>
+        <item>Instant Crush</item>
+        <item>Lose Yourself to Dance</item>
+        <item>Touch</item>
+        <item>Get Lucky</item>
+        <item>Beyond</item>
+        <item>Motherboard</item>
+        <item>Fragments of Time</item>
+        <item>Doin' it Right</item>
+        <item>Contact</item>
+    </array>
+
+    <!-- Adele -->
+    <string-array name="artist_1">
+        <item>Adele</item>
+        <item>21</item>
+        <item>adele_21</item>
+    </string-array>
+
+    <array name="artist_album_1">
+        <item>Rolling in the Deep [Explicit]</item>
+        <item>Rumour Has It</item>
+        <item>Turning Tables</item>
+        <item>Don't You Remember</item>
+        <item>Set Fire to the Rain</item>
+        <item>He Won't Go</item>
+        <item>Take It All</item>
+        <item>I'll Be Waiting</item>
+        <item>One and Only</item>
+        <item>Lovesong</item>
+        <item>Someone Like You</item>
+    </array>
+
+    <!-- Black Eyed Peas -->
+    <string-array name="artist_2">
+        <item>Black Eyed Peas</item>
+        <item>Monkey Business</item>
+        <item>bep_mb</item>
+    </string-array>
+
+    <array name="artist_album_2">
+        <item>Pump It</item>
+        <item>Don't Phunk With My Heart</item>
+        <item>My Style</item>
+        <item>Don't Lie</item>
+        <item>My Humps</item>
+        <item>Like That</item>
+        <item>Dum Diddly</item>
+        <item>Feel It</item>
+        <item>Gone Going</item>
+        <item>They Don't Want Music</item>
+        <item>Disco Club</item>
+        <item>Bebot</item>
+        <item>Ba Bump</item>
+        <item>Audio Delite at Low Fidelity</item>
+        <item>Union</item>
+        <item>Do What You Want</item>
+    </array>
+
+    <!-- Bruno Mars -->
+    <string-array name="artist_3">
+        <item>Bruno Mars</item>
+        <item>Unorthodox Jukebox</item>
+        <item>brunom_uj</item>
+    </string-array>
+
+    <array name="artist_album_3">
+        <item>Young Girls</item>
+        <item>Locked Out Of Heaven</item>
+        <item>Gorilla [Explicit]</item>
+        <item>Treasure [Explicit]</item>
+        <item>Moonshine</item>
+        <item>When I Was Your Man</item>
+        <item>Natalie</item>
+        <item>Show Me</item>
+        <item>Money Make Her Smile</item>
+        <item>If I Knew</item>
+    </array>
+
+    <!-- Bruno Mars -->
+    <string-array name="artist_4">
+        <item>Coeur de Pirate</item>
+        <item>Blonde</item>
+        <item>cdp_blonde</item>
+    </string-array>
+
+    <array name="artist_album_4">
+        <item>Lève Les Voiles</item>
+        <item>Adieu</item>
+        <item>Danse Et Danse</item>
+        <item>Golden Baby</item>
+        <item>Ava</item>
+        <item>Loin D'Ici</item>
+        <item>Les Amours Dévouées</item>
+        <item>Place De La République</item>
+        <item>Cap Diamant</item>
+        <item>Verseau</item>
+        <item>Saint-Laurent</item>
+        <item>La Petite Mort</item>
+    </array>
+
+</resources>
